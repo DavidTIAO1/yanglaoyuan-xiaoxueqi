@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as t,b as a,r as s}from"./index-DHzCBOiB.js";const n={},r={class:"page-placeholder"};function _(p,d){const e=s("el-empty");return c(),t("div",r,[a(e,{description:"家人管理 - 即将实现"})])}const i=o(n,[["render",_],["__scopeId","data-v-fd644c75"]]);export{i as default};

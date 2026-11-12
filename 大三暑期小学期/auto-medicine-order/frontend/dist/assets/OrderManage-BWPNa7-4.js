@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,b as r,r as a}from"./index-DHzCBOiB.js";const s={},n={class:"page-placeholder"};function _(p,d){const e=a("el-empty");return t(),c("div",n,[r(e,{description:"订单管理 - 即将实现"})])}const i=o(s,[["render",_],["__scopeId","data-v-8de458a4"]]);export{i as default};

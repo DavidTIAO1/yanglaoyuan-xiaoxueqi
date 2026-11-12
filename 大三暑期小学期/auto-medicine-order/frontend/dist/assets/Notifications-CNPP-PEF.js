@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,b as s,r as a}from"./index-DHzCBOiB.js";const n={},r={class:"page-placeholder"};function _(p,d){const e=a("el-empty");return t(),c("div",r,[s(e,{description:"消息通知 - 即将实现"})])}const m=o(n,[["render",_],["__scopeId","data-v-a70dc218"]]);export{m as default};

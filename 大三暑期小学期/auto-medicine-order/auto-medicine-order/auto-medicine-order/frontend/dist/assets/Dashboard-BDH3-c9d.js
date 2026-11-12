@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,b as s,r as a}from"./index-DHzCBOiB.js";const r={},n={class:"page-placeholder"};function _(p,d){const e=a("el-empty");return t(),c("div",n,[s(e,{description:"商家工作台 - 即将实现"})])}const i=o(r,[["render",_],["__scopeId","data-v-103d9a48"]]);export{i as default};

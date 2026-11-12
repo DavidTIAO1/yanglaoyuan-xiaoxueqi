@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,b as s,r}from"./index-DHzCBOiB.js";const a={},n={class:"page-placeholder"};function _(p,d){const e=r("el-empty");return t(),c("div",n,[s(e,{description:"AI 智能问诊 - 即将实现"})])}const i=o(a,[["render",_],["__scopeId","data-v-56937e71"]]);export{i as default};

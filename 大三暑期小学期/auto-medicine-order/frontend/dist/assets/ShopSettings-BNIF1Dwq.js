@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,b as s,r as n}from"./index-DHzCBOiB.js";const r={},a={class:"page-placeholder"};function _(p,d){const e=n("el-empty");return t(),c("div",a,[s(e,{description:"店铺设置 - 即将实现"})])}const i=o(r,[["render",_],["__scopeId","data-v-1cdb5688"]]);export{i as default};

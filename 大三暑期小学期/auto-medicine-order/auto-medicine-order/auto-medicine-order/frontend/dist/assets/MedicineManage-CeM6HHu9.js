@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as t,b as a,r as n}from"./index-DHzCBOiB.js";const s={},r={class:"page-placeholder"};function _(p,d){const e=n("el-empty");return c(),t("div",r,[a(e,{description:"药品管理 - 即将实现"})])}const m=o(s,[["render",_],["__scopeId","data-v-a993bbd7"]]);export{m as default};
